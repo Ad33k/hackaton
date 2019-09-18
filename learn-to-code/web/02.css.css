@@ -1,0 +1,19 @@
+.signature::before{
+  content: "with ♥";
+  margin-right: 0.5em;
+  color: salmon;
+}
+
+.signature {
+  font-weight: bold;
+  font-style: italic;
+  margin-left: 2em;
+}
+
+#specifically {
+  border: 3px dashed blueviolet;
+}
+
+body {
+  background-color: beige;
+}
